@@ -1,0 +1,32 @@
+body{
+    background:url("https://img.freepik.com/premium-photo/blurred-colorful-wallpaper-background_976742-179.jpg");
+    background-size: cover;
+}
+img{
+    height: 200px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#card{
+    border: 4px solid rgb(4, 39, 60);
+    width: 250px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: rgb(164, 202, 238);
+    margin-top: 50px;
+
+}
+
+h2{
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(77, 35, 92);
+}
+p{
+    text-align: justify;
+    color: rgb(145, 78, 177);
+}
